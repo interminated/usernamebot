@@ -1,0 +1,11 @@
+{
+  "name": "username-generator-telegram-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Отдельный Telegram-бот для Username Generator | Game",
+  "engines": {"node": ">=22.0.0"},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node --test tests/*.test.js"
+  }
+}
